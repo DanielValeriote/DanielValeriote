@@ -1,4 +1,4 @@
-<center><h2 style="text-align:center">Daniel Valeriote</h2></center>
+<center>## Daniel Valeriote</center>
 
 <div align="center">
   <a href="https://github.com/DanielValeriote">
